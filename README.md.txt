@@ -59,6 +59,7 @@ This project analyzes 100,000+ OLA ride bookings to uncover insights on ride dem
 ## 📊 Dashboard Preview
 
 ![Dashboard](images/dashboard1.png)
+![Dashboard](images/dashboard2.png)
 
 ---
 
