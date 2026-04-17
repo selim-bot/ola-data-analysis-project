@@ -2,69 +2,67 @@
 
 ## 📊 Project Overview
 
-This project analyzes OLA ride booking data to uncover insights related to ride trends, cancellations, revenue, and customer behavior.
+This project analyzes 100,000+ OLA ride bookings to uncover insights on ride demand, cancellations, revenue, and customer behavior.
+
+---
+
+## 🎯 Objective
+
+* Understand ride trends and peak demand
+* Analyze cancellations (customer vs driver)
+* Identify revenue patterns
+* Evaluate customer & driver ratings
 
 ---
 
 ## 📁 Dataset
 
-* 100,000+ ride booking records
+* 100K+ records
+* City: Bengaluru
 * Includes:
 
-  * Booking status (Success, Cancelled, Incomplete)
-  * Vehicle types
-  * Ride distance
-  * Ratings (Driver & Customer)
-  * Payment methods
+  * Booking Status
+  * Vehicle Type
+  * Ride Distance
+  * Ratings
+  * Payment Method
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools Used
 
-* SQL (MySQL)
+* SQL (MySQL Workbench)
 * Power BI
 * Excel
 
 ---
 
-## 🔍 Key Analysis Performed
+## 🔍 Key Analysis
 
 * Ride volume trends over time
-* Booking success vs cancellation analysis
+* Booking success vs cancellation breakdown
 * Revenue analysis by payment method
-* Top customers and vehicle performance
-* Customer vs Driver ratings comparison
+* Top customers by booking value
+* Vehicle performance comparison
 
 ---
 
-## 📊 Dashboard Insights
+## 💡 Key Insights
 
-* Higher ride demand observed on weekends
-* Majority bookings fall under ₹500 range
-* Driver cancellations significantly impact operations
-* Ratings show correlation between service quality and ride completion
-
----
-
-## 📸 Dashboard Preview
-
-## 📸 Dashboard Preview
-
-![Dashboard 1](images/dashboard1.png)
-![Dashboard 2](images/dashboard2.png)
+* 📈 Weekend bookings generate higher revenue
+* ❌ Driver cancellations impact ride success significantly
+* 💰 70% of rides fall under ₹500 category
+* ⭐ Higher ratings correlate with successful ride completion
 
 ---
 
-## 💡 Skills Demonstrated
+## 📊 Dashboard Preview
 
-* Data Cleaning & Preprocessing
-* SQL Query Writing
-* Data Visualization
-* Business Insight Generation
+![Dashboard](images/dashboard1.png)
 
 ---
 
-## 📎 Project Structure
+## 📂 Project Structure
 
 ```
 ola-data-analysis-project/
